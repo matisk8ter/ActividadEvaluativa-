@@ -16,12 +16,9 @@ public class Profesor extends Persona{
         return random<0.2?true:false;
     }
 
-    public String getMateria() {
-        return materia;
-    }
-
-    public void setMateria(String materia) {
-        this.materia = materia;
+    public String obtenerMateria(String [] materias){
+        double rand = Math.random() * 2;
+        return materias[(int)rand];
     }
 
 
