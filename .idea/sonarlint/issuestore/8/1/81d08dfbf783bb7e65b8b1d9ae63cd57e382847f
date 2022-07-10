@@ -1,0 +1,12 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "aula3".(ñğÎ
+O
+java:S1854"9Remove this useless assignment to local variable "aula2".(¼×õª
+E
+java:S1197"*Move the array designators [] to the type.(Çå¿»ûÿÿÿÿ
+@
+java:S1481"*Remove this unused "aula2" local variable.(¼×õª
+@
+java:S1481"*Remove this unused "aula3" local variable.(ñğÎ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(˜¹üÎüÿÿÿÿ

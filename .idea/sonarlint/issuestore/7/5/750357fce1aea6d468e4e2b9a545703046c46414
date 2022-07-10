@@ -1,0 +1,21 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿğ‚ûÿÿÿÿ
+b
+java:S1223
+"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘
+Q
+java:S1854"6Remove this useless assignment to local variable "df".(•Çıÿÿÿÿ
+Y
+java:S1854"<Remove this useless assignment to local variable "entrada2".(ßô¯¤8±‹Ùÿš0
+]
+java:S1854";Remove this useless assignment to local variable "entrada".(¥µÙ“şÿÿÿÿ8±‹Ùÿš0
+N
+java:S1481",Remove this unused "entrada" local variable.(¥µÙ“şÿÿÿÿ8´‹Ùÿš0
+J
+java:S1481"-Remove this unused "entrada2" local variable.(ßô¯¤8´‹Ùÿš0
+B
+java:S1481"'Remove this unused "df" local variable.(•Çıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ãÀÌ¨ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(²ã«ƒøÿÿÿÿ
+]	java:S125&"<This block of commented-out lines of code should be removed.(ï½¶³úÿÿÿÿ8·‹Ùÿš0
